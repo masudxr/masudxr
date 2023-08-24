@@ -1,16 +1,33 @@
-### Hi there 👋
+Hi,
+Assalamu Alaikum Wahmahmatullah
+I am Masud Rana👋
 
+Language:
+TypeScript,
+JavaScript,
+Python,
+C++,
+PHP,
+Node.js
 
-**masudxr/masudxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FrameWork:
+Laravel,
+React JS,
+Nest JS,
+Express JS
 
-Here are some ideas to get you started:
+Database:
+MySQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Others:
+Redux
 
+Cloud experience:
+AWS
+Azure
+GCP
+
+Connect:
+LinkedIn
+
+Thank You
