@@ -24,11 +24,6 @@ MySQL, MongoDB
 Others:
 Redux
 
-Cloud experience:
-AWS
-Azure
-GCP
-
 Connect:
 LinkedIn
 
